@@ -89,7 +89,6 @@ This project demonstrates:
 - Navigation and page linking
 - Layout design principles
 - CSS styling and positioning
-- Mobile-first development
 - User interface design
 
 ---
@@ -97,12 +96,9 @@ This project demonstrates:
 ## Future Improvements
 
 - Add project filtering
-- Include project modals
 - Implement dark mode
 - Connect the contact form to a backend
-- Add animations using AOS or Animate.css
-- Improve accessibility
-- Deploy the website online using GitHub Pages or Netlify
+- Add animations
 
 ---
 
